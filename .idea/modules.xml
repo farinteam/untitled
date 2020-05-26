@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/django_prj/.idea/django_prj.iml" filepath="$PROJECT_DIR$/django_prj/.idea/django_prj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/untitled17/.idea/untitled17.iml" filepath="$USER_HOME$/PycharmProjects/untitled17/.idea/untitled17.iml" />
+    </modules>
+  </component>
+</project>
